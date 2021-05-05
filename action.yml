@@ -1,5 +1,5 @@
 name: terraform-apply
-description: https://github.com/champtitles/action-terraform-module
+description: https://github.com/champtitles/action-terraform-apply
 runs:
   using: "composite"
   steps:
